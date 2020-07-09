@@ -1,4 +1,4 @@
-def artists
+class Artists
   attr accessor :name
 
   def initialize(name)
