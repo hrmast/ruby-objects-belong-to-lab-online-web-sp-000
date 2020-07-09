@@ -1,5 +1,5 @@
 class Artists
-  attr accessor :name
+  attr assessor :name
 
   def initialize(name)
     @name = name
